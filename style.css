@@ -29,3 +29,23 @@
 .logo{
     font-size: 1.3rem;
 }
+
+.section1{
+    max-height: 100vh;
+    color: #711e15;
+}
+
+.section1 h1{
+    color: #37110d;
+    font-size: 2rem;
+}
+
+
+.dumbelling{
+    width: 29px;
+}
+
+.topright .gyming{
+    width: 466px;
+}
+
